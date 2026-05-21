@@ -12,17 +12,6 @@ ngrok Public URL
 n8n Autonomous Agent
    ↓
 Security Checks
-   ↓
-Docker Build
-   ↓
-Testing
-   ↓
-Deployment
-   ↓
-Health Monitoring
-   ↓
-Rollback (if needed)
-   ↓
-Notifications & Reports
 
 this is the testing phase 2
+
