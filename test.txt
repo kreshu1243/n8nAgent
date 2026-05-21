@@ -1,3 +1,28 @@
 Testing Autonomous DevOps Agent
 testing phase 1
 testing 2
+Developer
+   ↓
+Git Push
+   ↓
+GitHub Webhook Trigger
+   ↓
+ngrok Public URL
+   ↓
+n8n Autonomous Agent
+   ↓
+Security Checks
+   ↓
+Docker Build
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Health Monitoring
+   ↓
+Rollback (if needed)
+   ↓
+Notifications & Reports
+
+this is the testing phase 2
