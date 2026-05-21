@@ -15,3 +15,26 @@ Security Checks
 
 this is the testing phase 2
 
+Developer
+   ↓
+Git Push
+   ↓
+GitHub Webhook Trigger
+   ↓
+ngrok Public URL
+   ↓
+n8n Autonomous Agent
+   ↓
+Security Checks
+   ↓
+Docker Build
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Health Monitoring
+   ↓
+Rollback (if needed)
+   ↓
+Notifications & Reports
